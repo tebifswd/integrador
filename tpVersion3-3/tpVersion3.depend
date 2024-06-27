@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1719023723 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\archivoempresas.cpp
+	<string>
+	<cstring>
+	"ArchivoEmpresas.h"
+
+1719022721 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\archivoempresas.h
+	"Empresa.h"
+
+1719022503 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\empresa.h
+	<iostream>
+	<string>
+
+1719016730 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\archivoobras.cpp
+	<string>
+	<cstring>
+	"ArchivoObras.h"
+
+1719016730 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\archivoobras.h
+	"Obras.h"
+
+1719011528 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\obras.h
+	<iostream>
+	<string>
+	<ctime>
+
+1719022613 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1719023685 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\empresasmanager.cpp
+	<iostream>
+	<string>
+	"EmpresasManager.h"
+
+1719023482 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\empresasmanager.h
+	"Empresa.h"
+	"ArchivoEmpresas.h"
+
+1719021466 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\main.cpp
+	<iostream>
+	"MenuManager.h"
+
+1719021843 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\menumanager.h
+
+1719016725 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\menumanager.cpp
+	<iostream>
+	"MenuManager.h"
+	"ObrasManager.h"
+	"EmpresasManager.h"
+
+1719022756 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\obrasmanager.h
+	"Obras.h"
+	"ArchivoObras.h"
+
+1718057010 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\obras.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Obras.h"
+
+1719022756 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion2\obrasmanager.cpp
+	<iostream>
+	<string>
+	"ObrasManager.h"
+
+1719449424 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoempresas.cpp
+	<string>
+	<cstring>
+	"ArchivoEmpresas.h"
+
+1719434882 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoempresas.h
+	<cstring>
+	"Empresa.h"
+
+1719022503 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\empresa.h
+	<iostream>
+	<string>
+
+1719449424 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoobras.cpp
+	<string>
+	<cstring>
+	"ArchivoObras.h"
+
+1719449912 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoobras.h
+	<cstring>
+	"Obras.h"
+
+1719011528 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\obras.h
+	<iostream>
+	<string>
+	<ctime>
+
+1719022613 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1719455315 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\empresasmanager.cpp
+	<iostream>
+	<string>
+	"EmpresasManager.h"
+
+1719434882 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\empresasmanager.h
+	"Empresa.h"
+	"ArchivoEmpresas.h"
+
+1719372914 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\main.cpp
+	<iostream>
+	"MenuManager.h"
+	"ArchivoEstados.h"
+
+1719441742 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\menumanager.h
+
+1719439539 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\menumanager.cpp
+	<iostream>
+	"MenuManager.h"
+	"ObrasManager.h"
+	"EmpresasManager.h"
+	"ConfiguracionManager.h"
+	"ReportesManager.h"
+
+1719435183 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\obrasmanager.h
+	"ArchivoObras.h"
+
+1718057010 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\obras.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Obras.h"
+
+1719437097 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\obrasmanager.cpp
+	<iostream>
+	<string>
+	<limits>
+	"ObrasManager.h"
+	"ArchivoEstados.h"
+
+1719448710 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\configuracionmanager.h
+	"ArchivoEmpresas.h"
+	"ArchivoObras.h"
+
+1719341165 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\configuracion.h
+	<iostream>
+	<string>
+	<ctime>
+
+1719449193 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\configuracionmanager.cpp
+	<iostream>
+	<string>
+	"ConfiguracionManager.h"
+
+1719437192 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoestados.cpp
+	<iostream>
+	<string>
+	"ArchivoEstados.h"
+
+1719437020 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\archivoestados.h
+	"Estados.h"
+
+1719436721 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\estados.h
+	<string>
+
+1719436721 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\estados.cpp
+	<iostream>
+	<cstring>
+	"Estados.h"
+
+1719444168 i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\reportesmanager.h
+	"ArchivoEmpresas.h"
+	"ArchivoObras.h"
+
+1719455288 source:i:\estudios\utn\tup 4to cuatrimestre\lab 2\tp integrador\tpversion3\reportesmanager.cpp
+	<iostream>
+	"ReportesManager.h"
+
